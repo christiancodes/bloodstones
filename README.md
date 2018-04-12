@@ -1,18 +1,18 @@
-# BLOODSTONES: Transfusions
+# BLOODSTONES
 
 ![A set of Bloodstones](images/classic-bloodstones.jpg "A set of Bloodstones. Acrylic on hematite.")
 
-## WHAT ARE BLOODSTONES?
+Bloodstones are a universal, open source board game mod. They can augment virtually any board game.
 
-A universal, open source board game mod. Bloodstones can augment virtually any board game.
-
-A set of "classic" Bloodstones is comprised of **5 similar pieces of [hematite](https://en.wikipedia.org/wiki/Hematite), each marked with the symbol of a blood droplet.** Game augmentations are called "Transfusions", and owners of Bloodstones are known as "Bloodkeepers".
+A set of "classic" Bloodstones is comprised of 5 similar pieces of [hematite](https://en.wikipedia.org/wiki/Hematite), each marked with the symbol of a blood droplet. Game augmentations are called "Transfusions", and owners of Bloodstones are allowed to call themselves "Bloodkeepers".
 
 ## RULES
 
-The rules of Bloodstones are flexible and can be determined by players. However, one mechanic must be present: **the sacrifice of a drop of blood per Bloodstone.**
+The rules of Bloodstones are flexible and can be determined by players. However, one mechanic must be present:
 
-A player, for example, might have to sacrifice blood if:
+**The sacrifice of a single drop of blood.**
+
+A player, for example, might have to sacrifice if:
 
  - they lose a Bloodstone they started with,
 
@@ -20,7 +20,7 @@ A player, for example, might have to sacrifice blood if:
 
  - they lose a wager of Bloodstones
 
-These general rule-sets can be specialized for individual games as desired.
+These general rule templates can be specialized for individual games as desired.
 
 ## POSSIBLE TRANSFUSIONS
 
@@ -40,7 +40,7 @@ Bloodstones are to remind you of those living with [Diabetes](https://en.wikiped
 
 ## DISCLAIMER
 
-Do not play with Bloodstones without first seeking the advice of a medical professional. Always use sterile instruments and great care when sacrificing your blood. Never share instruments between players. Never let someone else sacrifice your blood for you. Never force or coerce anyone else to play with Bloodstones. Do not use Bloodstones to augment a game if it violates the license of that game. Do not play with Bloodstones if you are unwilling to take full responsibility for any consequences.
+Do not play with Bloodstones without first seeking the advice of a medical professional. Always use sterile instruments and great care when sacrificing your blood. Never share instruments between players. Never let someone else sacrifice your blood for you. Never force or coerce anyone else to play with Bloodstones. Do not use Bloodstones to augment a game if it violates the license of that game. Keep blood away from other players and the game itself. Do not play with Bloodstones if you are unwilling to take full responsibility for any consequences.
 
 ## LICENSE
 
